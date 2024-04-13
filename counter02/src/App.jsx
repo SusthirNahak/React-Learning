@@ -14,7 +14,7 @@ function App() {
   setCounter(coud)
  }
 
-  return (
+  return ( 
     <>
       <h2>i will create a counter on this project</h2>
       <h2>Counter Value : {counter}</h2>
